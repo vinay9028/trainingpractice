@@ -30,6 +30,6 @@ jobs:
         with:
          node-version: 16
       
-      - name: Run variables.js file
+      - name: Run variable.js file
         run:
-          node variables.js
+          node variable.js
